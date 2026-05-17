@@ -88,3 +88,6 @@ plt.axis('off')
 ### Output
 
 ![alt text](image-3.png)
+
+## Result:
+Thus, the image has been successfully converted.
